@@ -238,15 +238,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-   
-   # _googleb985c26253d48770
-  - scope:
-      path: ""
-      type: googleb985c26253d48770
-    values:
-      layout: googleb985c26253d48770
-      author_profile: true
-      share: true
       
 
 # Sass/SCSS
