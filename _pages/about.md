@@ -34,6 +34,7 @@ redirect_from:
   
   {% raw %}
   $$a^2 + b^2 = c^2$$
+  $$ x_t $$ and $$\theta_t$$
  {% endraw %}
   
   
