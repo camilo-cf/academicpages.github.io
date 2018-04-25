@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About"
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /about_me/
+  - /about_me.html
 ---
 
  Hi! I'm Camilo, a Mechatronic Engineer and PhD(c) at School of Mechanical Engineering at the University of Campinas (UNICAMP) (São Paulo, Brazil). I've been always interested in mechatronics, robotics, control systems, signal processing and artificial intelligence. 
