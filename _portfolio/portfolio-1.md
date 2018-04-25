@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/> <br><iframe width="420" height="315"src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe></br><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/><iframe width="420" height="315"src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
