@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Camilo Andrés Cáceres Flórez"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Camilo Andrés Cáceres Flórez"
+description              : &description "PhD(c) in Mechanical Engineering [Mechatronics] at UNICAMP"
+url                      : https://camilo-cf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : #"academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "camilo__caceresf"
 facebook:
   username               :
   app_id                 :
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  name             : "Camilo Andrés Cáceres Flórez"
+  avatar           : "images/Foto_Camilo_perfil.jpg"
+  bio              : "Mechatronic Engineer, Master in Mechanical Engineering and PhD student of Mechatronics. Aiming to Improve and integrate different technologies. Learning lover."
+  location         : "Campinas (SP) - Brazil"
+  employer         : "UNICAMP"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=325XocAAAAAJ&view_op=list_works&authuser=2"
+  email            : "camilo.caceresf@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,23 +92,23 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "camilo-cf"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "camilocaceresf"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "camilo__caceresf"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/playlist?list=PLgCSL_ZT-R41gKinL67mJCWYdQoUNklRX" 
   wikipedia        :
 
 
