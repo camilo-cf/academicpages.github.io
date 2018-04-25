@@ -266,10 +266,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
- 
- #Google indexing
- plugins:
-  - jekyll-seo-tag
+
  
 
 
