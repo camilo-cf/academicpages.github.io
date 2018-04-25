@@ -33,7 +33,7 @@ redirect_from:
   Currently, I'm in the second year of my PhD. My PhD thesis is related with IoT/4.0 Industry concepts, operational research, Optimization and Healthcare systems. But I didn't leave my interest for data science, AI, automatic control (traditional and intelligent) and robotics; what I study in my free time.
   
   {% raw %}
-  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
+  $$a^2 + b^2 = c^2$$
  {% endraw %}
   
   
