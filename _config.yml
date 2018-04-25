@@ -12,8 +12,8 @@ title_separator          : "-"
 name                     : &name "Camilo Andrés Cáceres Flórez"
 description              : &description "PhD(c) in Mechanical Engineering [Mechatronics] at UNICAMP"
 url                      : https://camilo-cf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : #"academicpages/academicpages.github.io"
+baseurl                  : https://camilo-cf.github.io # the subpath of your site, e.g. "/blog"
+repository               : https://camilo-cf.github.io#"academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter ""
+  username               : #&twitter ""
 facebook:
   username               :
   app_id                 :
@@ -85,7 +85,7 @@ author:
   employer         : "UNICAMP"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=325XocAAAAAJ&view_op=list_works&authuser=2"
   email            : "camilo.caceresf@gmail.com"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
