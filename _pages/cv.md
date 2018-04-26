@@ -86,9 +86,9 @@ Informal Education/ Courses/ MOOCs/ Certifications
 * Intro to Python for Data Science (2017) - DataCamp
 * Certificate of Completion: C++ Course (2017) - SoloLearn
 * Certificate of Completion: Python 3 Course (2017) - SoloLearn
-* Modelagem de Negócios (2016) - Inova São Paulo
+* Business Modeling/ Modelagem de Negócios (2016) - Inova São Paulo
 * Machine Learning (2014) - Coursera
-* Introducción a Internet de todo (2016) - Cisco Networking Academy
+* Introduction to Internet of Everything (2016) - Cisco Networking Academy
 * edX Verified Certificate in Cognitive Neuroscience Robotics – Part A (2016) - edX/OsakaUX
 
 Publications
