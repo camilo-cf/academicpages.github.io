@@ -13,18 +13,18 @@ Education
 ======
 * B.S. in Mechatronics Engineering, Military University Nueva Granada (UMNG) (Bogotá, Colombia), 2014
 * M.S. in Mechanical Engineering, University of Campinas (UNICAMP) (Campinas, Brazil), 2016
-* Ph.D in Mechanical Enginnering, University of Campinas (UNICAMP) (Campinas, Brazil), 2020 (expected)
+* Ph.D. in Mechanical Engineering, University of Campinas (UNICAMP) (Campinas, Brazil), 2020 (expected)
 
 Work experience
 ======
 * Feb/2012 - Dec/2013: Research Student
   * Military University Nueva Granada (UMNG)
-  * Duties included: Development of different research projects, related with robotics, image and signal processing, and automatic control.
+  * Duties included: Development of different research projects, related to robotics, image and signal processing, and automatic control.
   * Supervisor: Professor Robinson Jiménez Moreno/ Darío Amaya Hurtado
 
 * Jan/2015 - July/2015: Research Assistant
   * Military University Nueva Granada (UMNG)
-  * Duties included: Development of a 3D laboratory as teaching tool for industrial automation using a PLC
+  * Duties included: Development of a 3D laboratory as a teaching tool for industrial automation using a PLC
   * Supervisor: Darío Amaya Hurtado
 
 * July/2015 - present: External/Occasional Researcher
@@ -39,7 +39,7 @@ Work experience
   
 * July/2016 - present: Graduate Student (Doctoral)
   * University of Campinas (UNICAMP)
-  * Duties included: Development of different resarches and some administrative tasks
+  * Duties included: Development of different research and some administrative tasks
   * Supervisor: João Maurício Rosário
   
 Skills
@@ -59,7 +59,7 @@ Skills
 		* Genetic Algorithms
 		* Bio-inspired evolutionary Algorithms
 * Data Science
-* Laguages
+* Languages
 	* English (Basic professional)
 	* Spanish (Native)
 	* Portuguese (High professional)
@@ -89,7 +89,7 @@ Informal Education/ Courses/ MOOCs/ Certifications
 * Modelagem de Negócios (2016) - Inova São Paulo
 * Machine Learning (2014) - Coursera
 * Introducción a Internet de todo (2016) - Cisco Networking Academy
-* edX Verified Certificate for Cognitive Neuroscience Robotics – Part A (2016) - edX/OsakaUX
+* edX Verified Certificate in Cognitive Neuroscience Robotics – Part A (2016) - edX/OsakaUX
 
 Publications
 ======
