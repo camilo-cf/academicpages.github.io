@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I’m Camilo, a Mechatronic Engineer, I'm studying a Ph.D. at the School of Mechanical Engineering at University of Campinas (UNICAMP) (Campinas, São Paulo, Brazil).
 
-In this website, I introduce myself, my work (in academic/ research area), some interesting things/ideas, and also post some information/codes/tutorials in blog format about my different areas of interest.
+In this website, I would like to introduce myself, my work (in academic/ research area), some interesting things/ideas, and also post some information/codes/tutorials in blog format about my different areas of interest.
 
 Between my interest topics are:
   * Mechatronics
