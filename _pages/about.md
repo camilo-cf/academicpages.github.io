@@ -8,9 +8,9 @@ redirect_from:
   - /information.html
 ---
 
-Hi! I’m Camilo, a Mechatronic Engineer, I'm studying a PhD at the School of Mechanical Engineering at University of Campinas (UNICAMP) (Campinas, São Paulo, Brazil).
+Hi! I’m Camilo, a Mechatronic Engineer, I'm studying a Ph.D. at the School of Mechanical Engineering at University of Campinas (UNICAMP) (Campinas, São Paulo, Brazil).
 
-In this personal website, I pretend to introduce myself, my work (in academic/ research area), some interesting things/ideas, and also I'd like to post some information/codes/tutorials in blog format about my different areas of interest.
+In this website, I introduce myself, my work (in academic/ research area), some interesting things/ideas, and also post some information/codes/tutorials in blog format about my different areas of interest.
 
 Between my interest topics are:
   * Mechatronics
@@ -29,7 +29,7 @@ Between my interest topics are:
   * IoT and 4.0 Industry
   * Other random topics
   
- This video is an interesting example of how I mixed robotics, image processing and optimization. In this case I used  Python 3 and the robotics software simulation V-REP.
+ This video is an interesting example of how I mixed robotics, image processing, and optimization. In this case, I used  Python 3 and the robotics software simulator V-REP.
  
 <html>
 <body>
