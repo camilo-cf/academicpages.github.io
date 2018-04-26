@@ -45,7 +45,6 @@ redirect_from:
   
 <html>
 <body>
-
 <iframe width="420" height="345" src="https://www.youtube.com/embed/ZFDrx1pJmVI">
 </iframe>
 <br/>
@@ -54,7 +53,7 @@ redirect_from:
   
   In 2016, I received my Master diploma and I decided to keep working with the same advisor in the same Faculty, but more involved in the Mechatronics area. My interest in Artificial Intelligence and Mobile robotics started that year, due to that motivation I developed few research on my free time about mobile robots and AI, involving dynamics and kinematics. 
   
-  In 2017, I presented the [Approach of Kinematic Control for a Nonholonomic Wheeled Robot using Artificial Neural Networks and Genetic Algorithms](https://ieeexplore.ieee.org/abstract/document/7985533/) work in the 2017 International Conference and Workshop on Bioinspired Intelligence (IWOBI) in Portugal, because of that paper I improved my proposal and added the simplified dynamics of the system for a new work, what is under evaluation. And also I developed the paper was is in the final publication stage, called *Design, Simulation, and Control of an Omnidirectional Mobile Robot*.
+  In 2017, I presented the [Approach of Kinematic Control for a Nonholonomic Wheeled Robot using Artificial Neural Networks and Genetic Algorithms](https://ieeexplore.ieee.org/abstract/document/7985533/) work in the 2017 International Conference and Workshop on Bioinspired Intelligence (IWOBI) in Portugal, because of that paper the proposal was improved giving as result a work what will be published soon, *Control Structure for a Car-like Robot using Artificial Neural Networks and Genetic Algorithms* in the Springer Journal Neural Computing and Applications. And recently other accepted paper, *Design, Simulation, and Control of an Omnidirectional Mobile Robot* in the IREME journal.
   
   Currently, I'm in the second year of my PhD. My PhD thesis is related with IoT/4.0 Industry concepts, operational research, Optimization and Healthcare systems. But I didn't leave my interest for data science, AI, automatic control (traditional and intelligent) and robotics; what I study in my free time.
   

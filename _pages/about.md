@@ -31,3 +31,13 @@ Between my my interests are topics like:
   * Operational Research
   * IoT and 4.0 Industry
   * Other random topics
+  
+ This video is an interesting example of how I mixed robotics, image processing and optimization. In this case I used  Python 3 and the robotics software simulation V-REP.
+ 
+<html>
+<body>
+<iframe width="240" height="172" src="https://www.youtube.com/embed/eBD8MeGVFI8">
+</iframe>
+<br/>
+</body>
+</html>
