@@ -8,8 +8,6 @@ redirect_from:
   - /information.html
 ---
 
-UUUUUUUUUUUUUUUUUUU
-
 Hi! I’m Camilo, a Mechatronic Engineer, I'm studying a PhD at the School of Mechanical Engineering at University of Campinas (UNICAMP) (Campinas, São Paulo, Brazil).
 
 In this personal website, I pretend to introduce myself, my work (in academic/ research area), some interesting things/ideas, and also I'd like to post some information/codes/tutorials in blog format about my different areas of interest.
