@@ -6,7 +6,7 @@ redirect_from:
   - /about_me.html
 
 ---
-
+HOLA HOLA
  Hi! I'm Camilo, a Mechatronic Engineer and PhD(c) at School of Mechanical Engineering at the University of Campinas (UNICAMP) (São Paulo, Brazil). I've been always interested in mechatronics, robotics, control systems, signal processing and artificial intelligence. 
  
  I received my B.S. in Mechatronics Engineering at Military University Nueva Granada (UMNG) (Bogotá, Colombia) in 2014. There i worked on the GAV research laboratory from my third year of engineering (since 2012). In 2012, I worked in the image processing area with the Microsoft Kinect, using it as a sensor for a fuzzy control of  a multi-tank system ([Multi-tank fuzzy level controller system using Kinect](https://ieeexplore.ieee.org/abstract/document/6524599/) ), this work what was presented in the Conference of  Electronics, Robotics and Automotive Mechanics(CERMA) 2012. 
