@@ -12,7 +12,7 @@ Hi! I’m Camilo, a Mechatronic Engineer, I'm studying a PhD at the School of Me
 
 In this personal website, I pretend to introduce myself, my CV, my work (in academic/ research area), some interesting things/ideas, and also I'd like to post some information/codes/tutorials in blog format about my different areas of interest.
 
-Between my my interests are topics like:
+Between my interest topics are:
   * Mechatronics
   * Robotics
   * Dynamic Systems
