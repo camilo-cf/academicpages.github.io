@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "About_me"
 excerpt: "About_me"
 permalink: /about_me/
