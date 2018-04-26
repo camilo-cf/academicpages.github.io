@@ -26,6 +26,11 @@ Work experience
   * Military University Nueva Granada (UMNG)
   * Duties included: Development of a 3D laboratory as a teaching tool for industrial automation using a PLC
   * Supervisor: Darío Amaya Hurtado
+ 
+* Jan/2015 - Jan/2016: External Developer of questions for Quantitative area 
+  * Instituto Colombiano para la Evaluación de la Educación (ICFES)
+  * Duties included: Develop multiple selection questions for test logical and mathematical skills
+  * Supervisor: Andrés Perico
 
 * July/2015 - present: External/Occasional Researcher
   * Military University Nueva Granada (UMNG)
