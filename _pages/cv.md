@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Mechatronics Engineering, Military University Nueva Granada (UMNG) (Bogotá, Colombia), 2014
 * M.S. in Mechanical Engineering, University of Campinas (UNICAMP) (Campinas, Brazil), 2016
-* Ph.D in Mechanical Enginnering (Mechatronics area), University of Campinas (UNICAMP) (Campinas, Brazil), 2020 (expected)
+* Ph.D in Mechanical Enginnering, University of Campinas (UNICAMP) (Campinas, Brazil), 2020 (expected)
 
 Work experience
 ======
@@ -37,7 +37,7 @@ Work experience
   * Duties included: Development of Assistive Domotics based on EEG for disabled people
   * Supervisor: João Maurício Rosário
   
- * July/2016 - present: Graduate Student (Doctoral)
+* July/2016 - present: Graduate Student (Doctoral)
   * University of Campinas (UNICAMP)
   * Duties included: Development of different resarches and some administrative tasks
   * Supervisor: João Maurício Rosário
