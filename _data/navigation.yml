@@ -18,7 +18,7 @@ main:
     url: /portfolio/
   
   - title: "Portfolio and Projects"
-    url: /portfolio_and_projets/
+    url: /about/
         
   - title: "Blog Posts"
     url: /year-archive/
