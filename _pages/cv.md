@@ -81,6 +81,7 @@ Skills
 
 Informal Education/ Courses/ MOOCs/ Certifications
 ======
+* pandas Foundations Course (2018) - DataCamp
 * Cleaning Data in Python Course (2018) - DataCamp
 * Introduction to Git for Data Science (2018) - DataCamp
 * Importing Data in Python (Part 1) Course (2018) - DataCamp
