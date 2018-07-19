@@ -81,6 +81,7 @@ Skills
 
 Informal Education/ Courses/ MOOCs/ Certifications
 ======
+* Statistical Thinking in Python (Part 1) Course (2018) - DataCamp
 * Manipulating DataFrames with pandas Course (2018) - DataCamp
 * pandas Foundations Course (2018) - DataCamp
 * Cleaning Data in Python Course (2018) - DataCamp
