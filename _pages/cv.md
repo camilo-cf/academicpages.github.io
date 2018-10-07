@@ -81,6 +81,7 @@ Skills
 
 Informal Education/ Courses/ MOOCs/ Certifications
 ======
+* Python Programmer Track (36h) (2018) - DataCamp 
 * Introduction to Databases in Python Course (2018) - DataCamp
 * Introduction to Data Visualization with Python Course (2018) - DataCamp
 * Introduction to Time Series Analysis in Python Course (2018) - DataCamp
