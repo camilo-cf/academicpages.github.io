@@ -81,6 +81,7 @@ Skills
 
 Informal Education/ Courses/ MOOCs/ Certifications
 ======
+* Introduction to Data Visualization with Python Course (2018) - DataCamp
 * Introduction to Time Series Analysis in Python Course (2018) - DataCamp
 * Statistical Thinking in Python (Part 2) Course (2018) - DataCamp
 * Intro to SQL for Data Science Course (2018) - DataCamp
