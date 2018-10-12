@@ -81,6 +81,7 @@ Skills
 
 Informal Education/ Courses/ MOOCs/ Certifications
 ======
+* Supervised Learning with scikit-learn Course (4h) - (2018) - DataCamp
 * Importing & Cleaning Data with Python  (13 h) - (2018) - DataCamp
 * Python Programmer Track (36 h) - (2018) - DataCamp 
 * Introduction to Databases in Python Course (2018) - DataCamp
