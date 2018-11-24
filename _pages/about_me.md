@@ -12,9 +12,10 @@ redirect_from:
  Then in 2013, I was working in the [Design and construction of a prototype rehabilitation machine to hand and wrist](https://ieeexplore.ieee.org/abstract/document/6682785/) what is documented in the video below (click on the image).
  
 <html>
+<meta name="google-site-verification" content="MadNWU7hGRV0BJcaF3Rm9X2LvQvmyXvBs_QkvYNmE9w" />
 <body>
   
-<meta name="google-site-verification" content="MadNWU7hGRV0BJcaF3Rm9X2LvQvmyXvBs_QkvYNmE9w" />
+
 <iframe width="420" height="345" src="https://www.youtube.com/embed/uJc7BHEAtas">
 </iframe>
 <br/>
