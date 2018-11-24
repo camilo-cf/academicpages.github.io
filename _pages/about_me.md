@@ -13,7 +13,8 @@ redirect_from:
  
 <html>
 <body>
-
+  
+<meta name="google-site-verification" content="MadNWU7hGRV0BJcaF3Rm9X2LvQvmyXvBs_QkvYNmE9w" />
 <iframe width="420" height="345" src="https://www.youtube.com/embed/uJc7BHEAtas">
 </iframe>
 <br/>
