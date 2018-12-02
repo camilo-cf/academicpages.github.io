@@ -81,6 +81,8 @@ Skills
 
 Informal Education/ Courses/ MOOCs/ Certifications
 ======
+* Data Analysis with Spreadsheets Course (3h)  - (2018) - DataCamp
+* Spreadsheet Basics Course (2h) - (2018) - DataCamp
 * Supervised Learning with scikit-learn Course (4h) - (2018) - DataCamp
 * Importing & Cleaning Data with Python  (13 h) - (2018) - DataCamp
 * Python Programmer Track (36 h) - (2018) - DataCamp 
