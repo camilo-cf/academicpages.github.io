@@ -81,6 +81,7 @@ Skills
 
 Informal Education/ Courses/ MOOCs/ Certifications
 ======
+* Intermediate Spreadsheets for Data Science Course (4h) - (2018) - DataCamp
 * Data Analysis with Spreadsheets Course (3h)  - (2018) - DataCamp
 * Spreadsheet Basics Course (2h) - (2018) - DataCamp
 * Supervised Learning with scikit-learn Course (4h) - (2018) - DataCamp
