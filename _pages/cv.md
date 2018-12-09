@@ -81,10 +81,12 @@ Skills
 
 Informal Education/ Courses/ MOOCs/ Certifications
 ======
-* Intermediate Spreadsheets for Data Science Course (4h) - (2018) - DataCamp
-* Data Analysis with Spreadsheets Course (3h)  - (2018) - DataCamp
-* Spreadsheet Basics Course (2h) - (2018) - DataCamp
-* Supervised Learning with scikit-learn Course (4h) - (2018) - DataCamp
+* Data Analyst with Python Track (47 h) - (2018) - DataCamp
+* Merging DataFrames with pandas Course (4 h) - (2018) - DataCamp
+* Intermediate Spreadsheets for Data Science Course (4 h) - (2018) - DataCamp
+* Data Analysis with Spreadsheets Course (3 h)  - (2018) - DataCamp
+* Spreadsheet Basics Course (2 h) - (2018) - DataCamp
+* Supervised Learning with scikit-learn Course (4 h) - (2018) - DataCamp
 * Importing & Cleaning Data with Python  (13 h) - (2018) - DataCamp
 * Python Programmer Track (36 h) - (2018) - DataCamp 
 * Introduction to Databases in Python Course (2018) - DataCamp
