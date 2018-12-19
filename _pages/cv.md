@@ -81,6 +81,7 @@ Skills
 
 Informal Education/ Courses/ MOOCs/ Certifications
 ======
+* Pivot Tables with Spreadsheets Course (4 h) - (2018) - DataCamp 
 * Data Analyst with Python Track (47 h) - (2018) - DataCamp
 * Merging DataFrames with pandas Course (4 h) - (2018) - DataCamp
 * Intermediate Spreadsheets for Data Science Course (4 h) - (2018) - DataCamp
