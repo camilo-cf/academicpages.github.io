@@ -81,6 +81,7 @@ Skills
 
 Informal Education/ Courses/ MOOCs/ Certifications
 ======
+* Advanced Deep Learning with Keras in Python (4h) - (2019) - DataCamp
 * Machine Learning with the Experts: School Budgets (4h) - (2019) - DataCamp
 * Deep Learning in Python (4h) - (2019) - DataCamp
 * Pivot Tables with Spreadsheets Course (4 h) - (2018) - DataCamp 
