@@ -81,6 +81,7 @@ Skills
 
 Informal Education/ Courses/ MOOCs/ Certifications
 ======
+* Network Analysis in Python (Part 1) (4h) - (2019) - DataCamp
 * Convolutional Neural Networks for Image Processing (4h) - (2019) - DataCamp
 * Advanced Deep Learning with Keras in Python (4h) - (2019) - DataCamp
 * Machine Learning with the Experts: School Budgets (4h) - (2019) - DataCamp
