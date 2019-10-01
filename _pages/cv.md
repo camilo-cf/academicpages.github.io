@@ -81,6 +81,7 @@ Skills
 
 Informal Education/ Courses/ MOOCs/ Certifications
 ======
+* Python for Time Series Data Analysis (15h) - (2019) - Udemy 
 * Unsupervised Learning in Python (4h) - (2019) - DataCamp
 * Network Analysis in Python (Part 1) (4h) - (2019) - DataCamp
 * Convolutional Neural Networks for Image Processing (4h) - (2019) - DataCamp
