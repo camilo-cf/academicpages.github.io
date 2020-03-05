@@ -81,7 +81,7 @@ Skills
 
 Informal Education/ Courses/ MOOCs/ Certifications
 ======
-* EF SET English Certificate 72/100 (C2 Proficent) - EF Standard English Test (EF SET) - [Certification] (https://www.efset.org/cert/EC4Ldb)
+* EF SET English Certificate 72/100 (C2 Proficent) - EF Standard English Test (EF SET) - <a href="https://www.efset.org/cert/EC4Ldb" title="Title">Certification </a>
 * Introduction to Deep Learning with Keras (4h) - (2020) - DataCamp
 * Introduction to Shell (4h) - (2020) - DataCamp
 * Python for Time Series Data Analysis (15h) - (2019) - Udemy 
