@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mechatronics Engineering, Military University Nueva Granada (UMNG) (Bogotá, Colombia), 2014
-* M.S. in Mechanical Engineering, University of Campinas (UNICAMP) (Campinas, Brazil), 2016
 * Ph.D. in Mechanical Engineering, University of Campinas (UNICAMP) (Campinas, Brazil), 2020 
+* M.S. in Mechanical Engineering, University of Campinas (UNICAMP) (Campinas, Brazil), 2016
+* B.S. in Mechatronics Engineering, Military University Nueva Granada (UMNG) (Bogotá, Colombia), 2014
 
 Work experience
 ======
@@ -24,7 +24,6 @@ Work experience
 * July/2016 - September/2020: Graduate Student (Doctoral)
   * University of Campinas (UNICAMP)
   * Duties included: Development of different research, teaching and some administrative tasks.
-  * Thesis: 
   * Supervisor: João Maurício Rosário
   
 * July/2015 - July/2016: Graduate Student (Master)
