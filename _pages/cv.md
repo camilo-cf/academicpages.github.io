@@ -13,87 +13,119 @@ Education
 ======
 * B.S. in Mechatronics Engineering, Military University Nueva Granada (UMNG) (Bogotá, Colombia), 2014
 * M.S. in Mechanical Engineering, University of Campinas (UNICAMP) (Campinas, Brazil), 2016
-* Ph.D. in Mechanical Engineering, University of Campinas (UNICAMP) (Campinas, Brazil), 2020 (expected)
+* Ph.D. in Mechanical Engineering, University of Campinas (UNICAMP) (Campinas, Brazil), 2020 
 
 Work experience
 ======
-* Feb/2012 - Dec/2013: Research Student
-  * Military University Nueva Granada (UMNG)
-  * Duties included: Development of different research projects, related to robotics, image and signal processing, and automatic control.
-  * Supervisor: Professor Robinson Jiménez Moreno/ Darío Amaya Hurtado
-
-* Jan/2015 - July/2015: Research Assistant
-  * Military University Nueva Granada (UMNG)
-  * Duties included: Development of a 3D laboratory as a teaching tool for industrial automation using a PLC
-  * Supervisor: Darío Amaya Hurtado
- 
-* Jan/2015 - Jan/2016: External Developer of questions for Quantitative area 
-  * Instituto Colombiano para la Evaluación de la Educación (ICFES)
-  * Duties included: Develop multiple selection questions for test logical and mathematical skills
-  * Supervisor: Andrés Perico
-
-* July/2015 - present: External/Occasional Researcher
-  * Military University Nueva Granada (UMNG)
-  * Duties included: Development of research projects under cooperation
-  * Supervisor: Darío Amaya Hurtado
+* October/2020 - Present: Machine Learning Engineer/Developer
+  * Freelance
+  * Computer Vision and Deep Learning
+   
+* July/2016 - September/2020: Graduate Student (Doctoral)
+  * University of Campinas (UNICAMP)
+  * Duties included: Development of different research, teaching and some administrative tasks.
+  * Thesis: 
+  * Supervisor: João Maurício Rosário
   
 * July/2015 - July/2016: Graduate Student (Master)
   * University of Campinas (UNICAMP)
   * Duties included: Development of Assistive Domotics based on EEG for disabled people
   * Supervisor: João Maurício Rosário
   
-* July/2016 - present: Graduate Student (Doctoral)
-  * University of Campinas (UNICAMP)
-  * Duties included: Development of different research and some administrative tasks
-  * Supervisor: João Maurício Rosário
+* Jan/2015 - Jan/2016: External Developer of questions for Quantitative area 
+  * Instituto Colombiano para la Evaluación de la Educación (ICFES)
+  * Duties included: Develop multiple selection questions for test logical and mathematical skills
+  * Supervisor: Andrés Perico
+  
+* Jan/2015 - July/2015: Research Assistant
+  * Military University Nueva Granada (UMNG)
+  * Duties included: Development of a 3D laboratory as a teaching tool for industrial automation using a PLC
+  * Supervisor: Darío Amaya Hurtado
+   
+* Feb/2012 - Dec/2013: Research Student
+  * Military University Nueva Granada (UMNG)
+  * Duties included: Development of different research projects, related to robotics, image and signal processing, and automatic control.
+  * Supervisor: Professor Robinson Jiménez Moreno/ Darío Amaya Hurtado
+
   
 Skills
 ======
+* Deep Learning
+* Computer Vision
+* Time-series analysis and forecasting
 * Mechatronics
 * Robotics
 * Signal and Image Processing 
-	* EEG signals
-	* RGB-Depth sensors
-	* Computer Vision
-* Automatic Control
-* Industrial Automation
-* Soft-Computing
-	* Meta-heuristic optimization
-	* Artificial Neural Networks
-	* Evolutionary Computing
-		* Genetic Algorithms
-		* Bio-inspired evolutionary Algorithms
+* Automatic Control and Industrial Automation
+* Soft-Computing (Evolutionary Computing)
 * Data Science
 * Languages
 	* English (Basic professional)
 	* Spanish (Native)
 	* Portuguese (High professional)
-* Python
-	* Image Processing (OpenCV)
-	* Office Automation Libraries (for word, excel, pdf files)
-	* Other
-* Matlab
-	* Simulink
-	* SimEvents
-	* Signal and Image Processing
-* V-REP
-* Other programming languages
+* Programming Languages 
+  * Python (OpenCV, skimage, sklearn, Tensorflow, Keras, Pandas, Flask ...)
+  * Matlab (Simulink, SimEvents, Signal and Image Processing)
+  * Other programming languages but not in use (C#, C++, Java, Javascript)
+* Robotic Simulator (V-REP-CoppeliaSim)
+
 
 Informal Education/ Courses/ MOOCs/ Certifications
 ======
-* Neural Networks and Deep Learning (20h) - (2020) - deeplearning.ai/ Coursera
+COURSERA SPECIALIZATIONS FINISHED
+* Deep Learning Specialization (~80h) - (2020) - Deeplearning.ai/ Coursera
+  * Sequence Models (16h) - (2020) - Deeplearning.ai/ Coursera
+  * Convolutional Neural Networks (20h) - (2020) - Deeplearning.ai/ Coursera
+  * Structuring Machine Learning Projects (5h) - (2020) - Deeplearning.ai/ Coursera
+  * Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization (18h) - (2020) - Deeplearning.ai/ Coursera
+  * Neural Networks and Deep Learning (20h) - (2020) - Deeplearning.ai/ Coursera
+
+* Machine Learning: Algorithms in the Real World Specialization (40 h) - (2020) - AMII/ Coursera
+  * Optimizing Machine Learning Performance - (2020) - AMII/ Coursera
+  * Data for Machine Learning - (2020) - AMII/ Coursera
+  * Machine Learning Algorithms: Supervised Learning Tip to Tail - (2020) - AMII/ Coursera
+  * Introduction to Applied Machine Learning - (2020) - AMII/ Coursera
+  
+* Machine Learning (2014) - Coursera	
+
+COURSERA SPECIALIZATIONS IN PROCESS
+* TensorFlow: Data and Deployment Specialization - Deeplearning.ai/ Coursera 
+  * Device-based Models with TensorFlow Lite (10h) - (2020) - Deeplearning.ai/ Coursera 
+  * Browser-based Models with TensorFlow.js (18h) - (2020) - Deeplearning.ai/ Coursera
+  
+* DeepLearning.AI TensorFlow Developer Professional Certificate - Deeplearning.ai/ Coursera 
+  * Convolutional Neural Networks in TensorFlow (26h) - (2020) - Deeplearning.ai/ Coursera
+  * Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning (30h) - (2020) - Deeplearning.ai/ Coursera
+
+* Modern Big Data Analysis with SQL Specialization - Cloudera/ Coursera
+  * Analyzing Big Data with SQL (with Honors) (18h) - (2020) - Cloudera/ Coursera
+  * Foundations for Big Data Analysis with SQL (with honors) (12h) - (2020) - Cloudera/ Coursera
+
+LANGUAGE TESTS
 * EF SET English Certificate 72/100 (C2 Proficent) - EF Standard English Test (EF SET) - <a href="https://www.efset.org/cert/EC4Ldb" title="Title">Certification </a>
+
+UDACITY
+* AWS Fundamental course in the AWS Machine Learning Scholarship (2020) - Udacity
+
+DATACAMP AND OTHERS
+* Image Processing in Python (2021) - DataCamp
+* Interactive Data Visualization with Bokeh (2021) - DataCamp
+
+* Deep Learning in Python Track (20h) - (2021) - DataCamp
+  * Advanced Deep Learning with Keras in Python (4h) - (2019) - DataCamp
+  * Introduction to Deep Learning with Keras (4h) - (2020) - DataCamp
+  * Introduction to Deep Learning with PyTorch (4h) - (2021) - DataCamp
+  * Introduction to TensorFlow in Python (4h) - (2021) - DataCamp
+  * Introduction to Deep Learning in Python (4h) - (2020) - DataCamp
+
 * Introduction to Data Visualization with Matplotlib (4h) - (2020) - DataCamp
-* Introduction to Deep Learning with Keras (4h) - (2020) - DataCamp
 * Introduction to Shell (4h) - (2020) - DataCamp
 * Analyzing Police Activity with pandas (4h) - (2020) - DataCamp
 * Python for Time Series Data Analysis (15h) - (2019) - Udemy 
 * Unsupervised Learning in Python (4h) - (2019) - DataCamp
 * Network Analysis in Python (Part 1) (4h) - (2019) - DataCamp
 * Convolutional Neural Networks for Image Processing (4h) - (2019) - DataCamp
-* Advanced Deep Learning with Keras in Python (4h) - (2019) - DataCamp
 * Machine Learning with the Experts: School Budgets (4h) - (2019) - DataCamp
-* Deep Learning in Python (4h) - (2019) - DataCamp
 * Pivot Tables with Spreadsheets Course (4 h) - (2018) - DataCamp 
 * Data Analyst with Python Track (47 h) - (2018) - DataCamp
 * Merging DataFrames with pandas Course (4 h) - (2018) - DataCamp
@@ -120,10 +152,9 @@ Informal Education/ Courses/ MOOCs/ Certifications
 * Python Data Science Toolbox (Part 1) (2018) - DataCamp
 * Intermediate Python for Data Science (2018) - DataCamp
 * Intro to Python for Data Science (2017) - DataCamp
-* Certificate of Completion: C++ Course (2017) - SoloLearn
-* Certificate of Completion: Python 3 Course (2017) - SoloLearn
+
+OTHERS
 * Business Modeling/ Modelagem de Negócios (2016) - Inova São Paulo
-* Machine Learning (2014) - Coursera
 * Introduction to Internet of Everything (2016) - Cisco Networking Academy
 * edX Verified Certificate in Cognitive Neuroscience Robotics – Part A (2016) - edX/OsakaUX
 
