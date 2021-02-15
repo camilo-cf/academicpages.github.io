@@ -85,6 +85,7 @@ COURSERA SPECIALIZATIONS FINISHED
   * Machine Learning Algorithms: Supervised Learning Tip to Tail - (2020) - AMII/ Coursera
   * Introduction to Applied Machine Learning - (2020) - AMII/ Coursera
   
+* Object Localization with TensorFlow (2h) - (2021) - Coursera
 * Machine Learning (2014) - Coursera	
 
 COURSERA SPECIALIZATIONS IN PROCESS
